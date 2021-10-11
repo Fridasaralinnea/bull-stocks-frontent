@@ -4,7 +4,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 // import { BehaviorSubject, Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { Observable } from 'rxjs';
-import io from 'socket.io-client';
+// import io from 'socket.io-client';
 
 @Injectable({
     providedIn: 'root'
@@ -18,7 +18,7 @@ export class HomeService {
         private router: Router,
         private http: HttpClient
     ) {
-        this.socket = io(this.ROOT_URL);
+        // this.socket = io(this.ROOT_URL);
     }
 
     public sendMessage(message) {
