@@ -1,3 +1,9 @@
+[![Build Status](https://app.travis-ci.com/Fridasaralinnea/bull-stocks-frontent.svg?branch=main)](https://app.travis-ci.com/Fridasaralinnea/bull-stocks-frontent)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-frontent/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-frontent/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-frontent/badges/build.png?b=main)](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-frontent/build-status/main)
+[![Code Coverage](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-frontent/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/Fridasaralinnea/bull-stocks-frontent/?branch=main)
+
+
 # BullStocksFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
